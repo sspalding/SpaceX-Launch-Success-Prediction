@@ -8,3 +8,12 @@ This project utilized:
 - Performing interactive visual anayltics using Folium and Plotly Dash
 - Performing predictive analysis using classification models
     - Logistic regression, K nearest neighbor, Support vector machine, and Decision Trees
+It was concluded that:
+- All four machine learning models performed the same in terms of prediction accuracy
+- The conditions to get the highest likelihood of a successful booster landing were
+    - Launch from KSC LC 39A
+    - Low payload weight
+    - Go to the GEO, HEO, SSO, or ES L1 orbit
+- Overtime the success rate of the booster landing has increased and will most likely continue to do so
+
+Disclaimer: This project was for learning purposes only and it's predictions should not be used to make any real world decisions. 
