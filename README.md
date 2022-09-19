@@ -7,7 +7,8 @@ This project utilized:
 - Performing exploratory data analysis using visualizations and SQL
 - Performing interactive visual anayltics using Folium and Plotly Dash
 - Performing predictive analysis using classification models
-    - Logistic regression, K nearest neighbor, Support vector machine, and Decision Trees
+    - Logistic regression, K nearest neighbor, Support vector machine, and Decision Trees  
+    
 It was concluded that:
 - All four machine learning models performed the same in terms of prediction accuracy
 - The conditions to get the highest likelihood of a successful booster landing were
